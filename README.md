@@ -1,5 +1,14 @@
-## Hi there 👋
+# 👋 Hola, soy Walter Ponce
 
+Bienvenido a mi perfil de GitHub 👨‍💻
+
+- 🔭 Actualmente trabajo en proyectos de código abierto, programador en formación.
+- 🌱 Aprendiendo por ahora Javascript y PHP.
+- 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/walter-ponce-garcía-106442292)
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanperez&show_icons=true&theme=dark) 
+
+- 💬 Pregúntame sobre desarrollo web y diseño-->
 <!--
 **WalterPonG/WalterPonG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
